@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/caches
+/codeStyles
+/libraries
+/modules/
+/sonarlint/
+jarRepositories.xml
+misc.xml
+runConfigurations.xml
+gradle.xml
+workspace.xml
+navEditor.xml
+assetWizardSettings.xml
